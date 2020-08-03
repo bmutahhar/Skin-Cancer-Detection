@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+__pycache__
+Models/modelCNN.h5
+Models/modelVGG.h5
+image_gui.ui
+prediction.ui
+
